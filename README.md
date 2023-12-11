@@ -1,4 +1,4 @@
-# Funcional-DPK
+# DPK
 
 Tecnologias utilizadas
 
